@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "306188776605",
+    "project_id": "gym-project-c915a",
+    "storage_bucket": "gym-project-c915a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306188776605:android:2b8e9923efc4d694029074",
+        "android_client_info": {
+          "package_name": "com.ViratAmbeSportsClub.GymSoftware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306188776605-2rl0dg1mok6e7plv05n8mn5149gkskl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAff4QvGPDCwMO4INsX7GIBw4r2rAMQ4g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306188776605-2rl0dg1mok6e7plv05n8mn5149gkskl5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
